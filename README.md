@@ -12,4 +12,4 @@ You can also save and load to-do lists in .json format
 Next Actions (Planned):
  - Make the UI better by making the table more customized and the buttons on the items itself
 
-If you want, dowload the entire repository, or download the .exe file here: https://drive.google.com/file/d/1cGYe8E80qH50B0kwKbRVwHPeNRUrNu9s/view?usp=sharing
+If you want, dowload the entire repository, or download the .exe file here (Recommended): https://drive.google.com/file/d/1cGYe8E80qH50B0kwKbRVwHPeNRUrNu9s/view?usp=sharing
